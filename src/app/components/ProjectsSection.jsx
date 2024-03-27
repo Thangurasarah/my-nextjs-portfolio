@@ -7,7 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
+    title: "Real Estate Website",
     description: "Project 1 description",
     image: "/images/projects/kube-website.png",
     tag: ["All", "Web"],
@@ -16,7 +16,7 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
+    title: "Next TODO app",
     description: "Project 2 description",
     image: "/images/projects/next-to-do.png",
     tag: ["All", "Web"],
@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "E-commerce Application",
+    title: "React TODO app",
     description: "Project 3 description",
     image: "/images/projects/react-to-do.png",
     tag: ["All", "Web"],
